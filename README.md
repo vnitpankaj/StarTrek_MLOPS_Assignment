@@ -10,7 +10,7 @@ This project implements a spam detection system that uses Natural Language Proce
 
 - Text preprocessing and feature engineering
 - Class imbalance handling using SMOTE
-- MLflow experiment tracking
+- MLflow experiment tracking (run folder is inside src folder)
 - Model optimization using RandomizedSearchCV
 - Flask web interface for real-time predictions
 - Docker containerization
