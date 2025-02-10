@@ -147,7 +147,7 @@ class SpamDetectionModel:
 
 if __name__ == "__main__":
     # Load processed data
-    data = pd.read_csv(r'C:\vnit\MLOps\mlops_assignment_2_v1\data\processed_spam_data.csv')
+    data = pd.read_csv('../data/processed_spam_data.csv')
     
     # Split data
     X_train, X_test, y_train, y_test = train_test_split(
@@ -163,8 +163,8 @@ if __name__ == "__main__":
     metrics = model.evaluate(X_test, y_test)
     
     # Save model
-    model.save_model(r'C:\vnit\MLOps\mlops_assignment_2_v1\models\spam_model.joblib', 
-                     r'C:\vnit\MLOps\mlops_assignment_2_v1\models\vectorizer.joblib')
+    model.save_model('../models/spam_model.joblib', 
+                     '../models/vectorizer.joblib')
     
     # Print evaluation results
     print("Model Performance:")
