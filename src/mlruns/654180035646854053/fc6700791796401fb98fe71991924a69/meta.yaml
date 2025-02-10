@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sushr/Downloads/MLOPS_ASSIGNMENT_2/StarTrek_MLOPS_Assignment/src/mlruns/654180035646854053/fc6700791796401fb98fe71991924a69/artifacts
+end_time: 1739208865467
+entry_point_name: ''
+experiment_id: '654180035646854053'
+lifecycle_stage: active
+run_id: fc6700791796401fb98fe71991924a69
+run_name: persistent-crab-520
+run_uuid: fc6700791796401fb98fe71991924a69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739208865399
+status: 3
+tags: []
+user_id: sushr

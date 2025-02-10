@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sushr/Downloads/MLOPS_ASSIGNMENT_2/StarTrek_MLOPS_Assignment/src/mlruns/654180035646854053/d04d44f5e07b4e7ba96e333488e67fde/artifacts
+end_time: 1739208827570
+entry_point_name: ''
+experiment_id: '654180035646854053'
+lifecycle_stage: active
+run_id: d04d44f5e07b4e7ba96e333488e67fde
+run_name: burly-rat-164
+run_uuid: d04d44f5e07b4e7ba96e333488e67fde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739208827517
+status: 3
+tags: []
+user_id: sushr

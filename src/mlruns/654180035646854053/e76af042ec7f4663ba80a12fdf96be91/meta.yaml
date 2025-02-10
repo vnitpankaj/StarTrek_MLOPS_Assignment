@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sushr/Downloads/MLOPS_ASSIGNMENT_2/StarTrek_MLOPS_Assignment/src/mlruns/654180035646854053/e76af042ec7f4663ba80a12fdf96be91/artifacts
+end_time: 1739208841223
+entry_point_name: ''
+experiment_id: '654180035646854053'
+lifecycle_stage: active
+run_id: e76af042ec7f4663ba80a12fdf96be91
+run_name: melodic-gnat-832
+run_uuid: e76af042ec7f4663ba80a12fdf96be91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739208841163
+status: 3
+tags: []
+user_id: sushr

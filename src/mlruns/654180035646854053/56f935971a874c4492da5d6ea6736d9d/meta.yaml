@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sushr/Downloads/MLOPS_ASSIGNMENT_2/StarTrek_MLOPS_Assignment/src/mlruns/654180035646854053/56f935971a874c4492da5d6ea6736d9d/artifacts
+end_time: 1739208829233
+entry_point_name: ''
+experiment_id: '654180035646854053'
+lifecycle_stage: active
+run_id: 56f935971a874c4492da5d6ea6736d9d
+run_name: orderly-loon-872
+run_uuid: 56f935971a874c4492da5d6ea6736d9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739208829163
+status: 3
+tags: []
+user_id: sushr

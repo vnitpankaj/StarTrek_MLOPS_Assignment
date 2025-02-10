@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sushr/Downloads/MLOPS_ASSIGNMENT_2/StarTrek_MLOPS_Assignment/src/mlruns/654180035646854053/d015b84b285547ad8c22c2221f0786b0/artifacts
+end_time: 1739208820321
+entry_point_name: ''
+experiment_id: '654180035646854053'
+lifecycle_stage: active
+run_id: d015b84b285547ad8c22c2221f0786b0
+run_name: bald-shrimp-489
+run_uuid: d015b84b285547ad8c22c2221f0786b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739208820264
+status: 3
+tags: []
+user_id: sushr

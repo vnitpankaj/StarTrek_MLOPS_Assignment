@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sushr/Downloads/MLOPS_ASSIGNMENT_2/StarTrek_MLOPS_Assignment/src/mlruns/654180035646854053/a06e6fe709e0485ba8f29d0a7badb6b5/artifacts
+end_time: 1739208844815
+entry_point_name: ''
+experiment_id: '654180035646854053'
+lifecycle_stage: active
+run_id: a06e6fe709e0485ba8f29d0a7badb6b5
+run_name: gentle-frog-573
+run_uuid: a06e6fe709e0485ba8f29d0a7badb6b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739208844767
+status: 3
+tags: []
+user_id: sushr

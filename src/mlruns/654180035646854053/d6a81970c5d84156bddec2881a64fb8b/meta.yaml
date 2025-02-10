@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sushr/Downloads/MLOPS_ASSIGNMENT_2/StarTrek_MLOPS_Assignment/src/mlruns/654180035646854053/d6a81970c5d84156bddec2881a64fb8b/artifacts
+end_time: 1739208840473
+entry_point_name: ''
+experiment_id: '654180035646854053'
+lifecycle_stage: active
+run_id: d6a81970c5d84156bddec2881a64fb8b
+run_name: unique-bee-545
+run_uuid: d6a81970c5d84156bddec2881a64fb8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739208840416
+status: 3
+tags: []
+user_id: sushr

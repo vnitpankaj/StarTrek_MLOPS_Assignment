@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sushr/Downloads/MLOPS_ASSIGNMENT_2/StarTrek_MLOPS_Assignment/src/mlruns/654180035646854053/0673b44d0f2d4883a585b9a522cff7a5/artifacts
+end_time: 1739208804231
+entry_point_name: ''
+experiment_id: '654180035646854053'
+lifecycle_stage: active
+run_id: 0673b44d0f2d4883a585b9a522cff7a5
+run_name: defiant-bug-386
+run_uuid: 0673b44d0f2d4883a585b9a522cff7a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739208804174
+status: 3
+tags: []
+user_id: sushr

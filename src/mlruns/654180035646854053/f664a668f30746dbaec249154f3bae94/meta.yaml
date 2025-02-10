@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sushr/Downloads/MLOPS_ASSIGNMENT_2/StarTrek_MLOPS_Assignment/src/mlruns/654180035646854053/f664a668f30746dbaec249154f3bae94/artifacts
+end_time: 1739208845593
+entry_point_name: ''
+experiment_id: '654180035646854053'
+lifecycle_stage: active
+run_id: f664a668f30746dbaec249154f3bae94
+run_name: unequaled-vole-165
+run_uuid: f664a668f30746dbaec249154f3bae94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739208845529
+status: 3
+tags: []
+user_id: sushr

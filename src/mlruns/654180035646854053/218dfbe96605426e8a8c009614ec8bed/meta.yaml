@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sushr/Downloads/MLOPS_ASSIGNMENT_2/StarTrek_MLOPS_Assignment/src/mlruns/654180035646854053/218dfbe96605426e8a8c009614ec8bed/artifacts
+end_time: 1739208810224
+entry_point_name: ''
+experiment_id: '654180035646854053'
+lifecycle_stage: active
+run_id: 218dfbe96605426e8a8c009614ec8bed
+run_name: rumbling-fawn-836
+run_uuid: 218dfbe96605426e8a8c009614ec8bed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739208810155
+status: 3
+tags: []
+user_id: sushr

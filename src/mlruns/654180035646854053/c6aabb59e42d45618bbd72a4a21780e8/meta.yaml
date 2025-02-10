@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sushr/Downloads/MLOPS_ASSIGNMENT_2/StarTrek_MLOPS_Assignment/src/mlruns/654180035646854053/c6aabb59e42d45618bbd72a4a21780e8/artifacts
+end_time: 1739208837275
+entry_point_name: ''
+experiment_id: '654180035646854053'
+lifecycle_stage: active
+run_id: c6aabb59e42d45618bbd72a4a21780e8
+run_name: nosy-dolphin-522
+run_uuid: c6aabb59e42d45618bbd72a4a21780e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739208837214
+status: 3
+tags: []
+user_id: sushr

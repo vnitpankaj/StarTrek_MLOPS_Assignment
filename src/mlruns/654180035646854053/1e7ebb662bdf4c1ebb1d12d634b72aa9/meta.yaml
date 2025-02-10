@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sushr/Downloads/MLOPS_ASSIGNMENT_2/StarTrek_MLOPS_Assignment/src/mlruns/654180035646854053/1e7ebb662bdf4c1ebb1d12d634b72aa9/artifacts
+end_time: 1739208872554
+entry_point_name: ''
+experiment_id: '654180035646854053'
+lifecycle_stage: active
+run_id: 1e7ebb662bdf4c1ebb1d12d634b72aa9
+run_name: abrasive-asp-110
+run_uuid: 1e7ebb662bdf4c1ebb1d12d634b72aa9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739208872330
+status: 3
+tags: []
+user_id: sushr

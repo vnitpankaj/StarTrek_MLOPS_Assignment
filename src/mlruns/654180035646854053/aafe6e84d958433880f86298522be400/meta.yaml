@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sushr/Downloads/MLOPS_ASSIGNMENT_2/StarTrek_MLOPS_Assignment/src/mlruns/654180035646854053/aafe6e84d958433880f86298522be400/artifacts
+end_time: 1739208851955
+entry_point_name: ''
+experiment_id: '654180035646854053'
+lifecycle_stage: active
+run_id: aafe6e84d958433880f86298522be400
+run_name: tasteful-mule-669
+run_uuid: aafe6e84d958433880f86298522be400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739208851891
+status: 3
+tags: []
+user_id: sushr

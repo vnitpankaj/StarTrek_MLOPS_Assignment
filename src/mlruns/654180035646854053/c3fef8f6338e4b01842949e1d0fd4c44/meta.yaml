@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sushr/Downloads/MLOPS_ASSIGNMENT_2/StarTrek_MLOPS_Assignment/src/mlruns/654180035646854053/c3fef8f6338e4b01842949e1d0fd4c44/artifacts
+end_time: 1739208816383
+entry_point_name: ''
+experiment_id: '654180035646854053'
+lifecycle_stage: active
+run_id: c3fef8f6338e4b01842949e1d0fd4c44
+run_name: sassy-shrew-888
+run_uuid: c3fef8f6338e4b01842949e1d0fd4c44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739208816326
+status: 3
+tags: []
+user_id: sushr
