@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sushr/Downloads/MLOPS_ASSIGNMENT_2/StarTrek_MLOPS_Assignment/src/mlruns/654180035646854053/34b815a3a0b7436389c82a07d3c86fbe/artifacts
+end_time: 1739208863063
+entry_point_name: ''
+experiment_id: '654180035646854053'
+lifecycle_stage: active
+run_id: 34b815a3a0b7436389c82a07d3c86fbe
+run_name: painted-perch-365
+run_uuid: 34b815a3a0b7436389c82a07d3c86fbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739208862997
+status: 3
+tags: []
+user_id: sushr

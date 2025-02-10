@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sushr/Downloads/MLOPS_ASSIGNMENT_2/StarTrek_MLOPS_Assignment/src/mlruns/654180035646854053/6022cab831f94ab0907d83406a226e9d/artifacts
+end_time: 1739208809570
+entry_point_name: ''
+experiment_id: '654180035646854053'
+lifecycle_stage: active
+run_id: 6022cab831f94ab0907d83406a226e9d
+run_name: receptive-mare-439
+run_uuid: 6022cab831f94ab0907d83406a226e9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739208809510
+status: 3
+tags: []
+user_id: sushr

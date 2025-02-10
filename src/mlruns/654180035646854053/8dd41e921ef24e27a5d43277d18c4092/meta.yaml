@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sushr/Downloads/MLOPS_ASSIGNMENT_2/StarTrek_MLOPS_Assignment/src/mlruns/654180035646854053/8dd41e921ef24e27a5d43277d18c4092/artifacts
+end_time: 1739208845524
+entry_point_name: ''
+experiment_id: '654180035646854053'
+lifecycle_stage: active
+run_id: 8dd41e921ef24e27a5d43277d18c4092
+run_name: hilarious-gull-410
+run_uuid: 8dd41e921ef24e27a5d43277d18c4092
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739208845460
+status: 3
+tags: []
+user_id: sushr

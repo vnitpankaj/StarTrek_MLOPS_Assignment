@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sushr/Downloads/MLOPS_ASSIGNMENT_2/StarTrek_MLOPS_Assignment/src/mlruns/654180035646854053/46f0c70a76264120b9ede557f584cabb/artifacts
+end_time: 1739208859337
+entry_point_name: ''
+experiment_id: '654180035646854053'
+lifecycle_stage: active
+run_id: 46f0c70a76264120b9ede557f584cabb
+run_name: incongruous-duck-18
+run_uuid: 46f0c70a76264120b9ede557f584cabb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739208859267
+status: 3
+tags: []
+user_id: sushr

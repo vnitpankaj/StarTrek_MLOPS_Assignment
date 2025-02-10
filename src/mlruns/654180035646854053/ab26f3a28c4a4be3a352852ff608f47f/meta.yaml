@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sushr/Downloads/MLOPS_ASSIGNMENT_2/StarTrek_MLOPS_Assignment/src/mlruns/654180035646854053/ab26f3a28c4a4be3a352852ff608f47f/artifacts
+end_time: 1739208860734
+entry_point_name: ''
+experiment_id: '654180035646854053'
+lifecycle_stage: active
+run_id: ab26f3a28c4a4be3a352852ff608f47f
+run_name: charming-shrike-542
+run_uuid: ab26f3a28c4a4be3a352852ff608f47f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739208860657
+status: 3
+tags: []
+user_id: sushr

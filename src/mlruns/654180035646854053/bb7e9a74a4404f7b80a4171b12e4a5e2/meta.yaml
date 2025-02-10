@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sushr/Downloads/MLOPS_ASSIGNMENT_2/StarTrek_MLOPS_Assignment/src/mlruns/654180035646854053/bb7e9a74a4404f7b80a4171b12e4a5e2/artifacts
+end_time: 1739208812826
+entry_point_name: ''
+experiment_id: '654180035646854053'
+lifecycle_stage: active
+run_id: bb7e9a74a4404f7b80a4171b12e4a5e2
+run_name: lyrical-stag-131
+run_uuid: bb7e9a74a4404f7b80a4171b12e4a5e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739208812761
+status: 3
+tags: []
+user_id: sushr

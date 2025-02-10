@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sushr/Downloads/MLOPS_ASSIGNMENT_2/StarTrek_MLOPS_Assignment/src/mlruns/654180035646854053/f1fa86c17723424b93d5f849c29135f1/artifacts
+end_time: 1739208829157
+entry_point_name: ''
+experiment_id: '654180035646854053'
+lifecycle_stage: active
+run_id: f1fa86c17723424b93d5f849c29135f1
+run_name: abrasive-boar-269
+run_uuid: f1fa86c17723424b93d5f849c29135f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739208829094
+status: 3
+tags: []
+user_id: sushr

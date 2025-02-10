@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sushr/Downloads/MLOPS_ASSIGNMENT_2/StarTrek_MLOPS_Assignment/src/mlruns/654180035646854053/aca11943787c42a58f9100a8fe633f41/artifacts
+end_time: 1739208821165
+entry_point_name: ''
+experiment_id: '654180035646854053'
+lifecycle_stage: active
+run_id: aca11943787c42a58f9100a8fe633f41
+run_name: thundering-colt-161
+run_uuid: aca11943787c42a58f9100a8fe633f41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739208821109
+status: 3
+tags: []
+user_id: sushr

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sushr/Downloads/MLOPS_ASSIGNMENT_2/StarTrek_MLOPS_Assignment/src/mlruns/654180035646854053/ed72c6e043c04a0aa51202e20234e318/artifacts
+end_time: 1739208839857
+entry_point_name: ''
+experiment_id: '654180035646854053'
+lifecycle_stage: active
+run_id: ed72c6e043c04a0aa51202e20234e318
+run_name: loud-hawk-614
+run_uuid: ed72c6e043c04a0aa51202e20234e318
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739208839784
+status: 3
+tags: []
+user_id: sushr

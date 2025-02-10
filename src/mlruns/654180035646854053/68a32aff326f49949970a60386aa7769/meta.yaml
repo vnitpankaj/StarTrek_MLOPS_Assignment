@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sushr/Downloads/MLOPS_ASSIGNMENT_2/StarTrek_MLOPS_Assignment/src/mlruns/654180035646854053/68a32aff326f49949970a60386aa7769/artifacts
+end_time: 1739208849290
+entry_point_name: ''
+experiment_id: '654180035646854053'
+lifecycle_stage: active
+run_id: 68a32aff326f49949970a60386aa7769
+run_name: colorful-roo-696
+run_uuid: 68a32aff326f49949970a60386aa7769
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739208849227
+status: 3
+tags: []
+user_id: sushr

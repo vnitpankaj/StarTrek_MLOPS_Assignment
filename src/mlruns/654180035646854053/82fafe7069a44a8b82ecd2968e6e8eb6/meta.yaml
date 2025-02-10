@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sushr/Downloads/MLOPS_ASSIGNMENT_2/StarTrek_MLOPS_Assignment/src/mlruns/654180035646854053/82fafe7069a44a8b82ecd2968e6e8eb6/artifacts
+end_time: 1739208817497
+entry_point_name: ''
+experiment_id: '654180035646854053'
+lifecycle_stage: active
+run_id: 82fafe7069a44a8b82ecd2968e6e8eb6
+run_name: popular-cow-851
+run_uuid: 82fafe7069a44a8b82ecd2968e6e8eb6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739208817441
+status: 3
+tags: []
+user_id: sushr

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sushr/Downloads/MLOPS_ASSIGNMENT_2/StarTrek_MLOPS_Assignment/src/mlruns/654180035646854053/d33b20bb0beb469388f5bc0d4936870a/artifacts
+end_time: 1739208820704
+entry_point_name: ''
+experiment_id: '654180035646854053'
+lifecycle_stage: active
+run_id: d33b20bb0beb469388f5bc0d4936870a
+run_name: painted-shark-860
+run_uuid: d33b20bb0beb469388f5bc0d4936870a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739208820644
+status: 3
+tags: []
+user_id: sushr

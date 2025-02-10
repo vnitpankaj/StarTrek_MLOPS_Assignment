@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sushr/Downloads/MLOPS_ASSIGNMENT_2/StarTrek_MLOPS_Assignment/src/mlruns/654180035646854053/f6368816e41f4d52a4f2a9c6ab7611d3/artifacts
+end_time: 1739208859941
+entry_point_name: ''
+experiment_id: '654180035646854053'
+lifecycle_stage: active
+run_id: f6368816e41f4d52a4f2a9c6ab7611d3
+run_name: big-toad-28
+run_uuid: f6368816e41f4d52a4f2a9c6ab7611d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739208859863
+status: 3
+tags: []
+user_id: sushr

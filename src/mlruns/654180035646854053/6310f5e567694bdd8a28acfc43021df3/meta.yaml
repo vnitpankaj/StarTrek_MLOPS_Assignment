@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sushr/Downloads/MLOPS_ASSIGNMENT_2/StarTrek_MLOPS_Assignment/src/mlruns/654180035646854053/6310f5e567694bdd8a28acfc43021df3/artifacts
+end_time: 1739208857224
+entry_point_name: ''
+experiment_id: '654180035646854053'
+lifecycle_stage: active
+run_id: 6310f5e567694bdd8a28acfc43021df3
+run_name: enthused-smelt-480
+run_uuid: 6310f5e567694bdd8a28acfc43021df3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739208857148
+status: 3
+tags: []
+user_id: sushr
