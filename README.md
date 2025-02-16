@@ -1,6 +1,12 @@
 # StarTrek_MLOPS_Assignment
 VNIT MTech MLOPS Subject Assignment : Mail SPM/HAM Detection POC
 
+# StarTrek Team :
+## 1. Pankaj Gharde : MT23AAI037
+## 2. Sushrut Gawande : MT23AAI036
+## 3. Sanjay Joshi : MT23AAI038
+## 4. Charudatta Kandalkar : MT23AAI003
+
 ## To run the code add folder data/raw/spam_data.csv
 Download spam_data.csv from follwing link `https://www.kaggle.com/datasets/thedevastator/sms-spam-collection-a-more-diverse-dataset`
 
