@@ -7,7 +7,8 @@ VNIT MTech MLOPS Subject Assignment : Mail SPM/HAM Detection POC
 ## 3. Sanjay Joshi : MT23AAI038
 ## 4. Charudatta Kandalkar : MT23AAI003
 
-## To run the code add folder data/raw/spam_data.csv
+
+# To run the code add folder data/raw/spam_data.csv
 Download spam_data.csv from follwing link `https://www.kaggle.com/datasets/thedevastator/sms-spam-collection-a-more-diverse-dataset`
 
 ## Project Overview
